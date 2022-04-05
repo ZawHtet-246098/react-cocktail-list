@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./projects/15-cocktails/App";
-import "./projects/15-cocktails/index.css";
-import { AppProvider } from "./projects/15-cocktails/context";
+import App from "./15-cocktails/App";
+import "./15-cocktails/index.css";
+import { AppProvider } from "./15-cocktails/context";
 
 ReactDOM.render(
   <React.StrictMode>
